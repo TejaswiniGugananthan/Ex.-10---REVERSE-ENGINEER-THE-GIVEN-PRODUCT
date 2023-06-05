@@ -31,10 +31,11 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
-![image](https://github.com/Augustine0306/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119404460/2baabc9a-0846-45c3-9c0f-c6ca5b986f69)
+![image](https://github.com/TejaswiniGugananthan/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/121222763/c69cccbd-5c85-4263-aae7-3849ab084cb2)
+
 
 ### Output:
-![image](https://github.com/Augustine0306/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119404460/89e33baa-7279-41a2-9cc5-c7547bf6d25a)
+![image](https://github.com/TejaswiniGugananthan/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/121222763/3bb9dd21-08f5-4eab-88a7-52c44c6fcdfe)
 
 
 ### Name: TEJASWINI.G
